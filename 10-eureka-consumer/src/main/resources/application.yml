@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: fish-consumer
+server:
+  port: 8080
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/ #08-eureka-server中的服务地址
+    register-with-eureka: false

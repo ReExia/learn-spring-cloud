@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: fish-provider
+server:
+  port: 9001
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/ #08-eureka-server中的服务地址
+  instance:
+    lease-expiration-duration-in-seconds: 5 #系统默认30秒 发送给server端的心跳
+    lease-renewal-interval-in-seconds: 5 #系统默认30秒    eureka server 收到心跳后,等待下一次心跳的时间
+
+
+

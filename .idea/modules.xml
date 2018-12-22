@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/07-random-port/07-random-port.iml" filepath="$PROJECT_DIR$/07-random-port/07-random-port.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-eureka-server/08-eureka-server.iml" filepath="$PROJECT_DIR$/08-eureka-server/08-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-eureka-provider/09-eureka-provider.iml" filepath="$PROJECT_DIR$/09-eureka-provider/09-eureka-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-eureka-consumer/10-eureka-consumer.iml" filepath="$PROJECT_DIR$/10-eureka-consumer/10-eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-ribbon-demo01/11-ribbon-demo01.iml" filepath="$PROJECT_DIR$/11-ribbon-demo01/11-ribbon-demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/learn-spring-cloud.iml" />
+    </modules>
+  </component>
+</project>
